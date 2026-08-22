@@ -97,7 +97,7 @@ Python was used for:
 
 Python File:
 
-`Retail_Sales_Python_Analysis.ipynb`
+`03_Retail_Sales_Python_Analysis`
 
 ## SQL Analysis
 
@@ -121,7 +121,7 @@ PostgreSQL was used for:
 
 SQL file:
 
-`Retail_Sales_PostgreSQL_Analysis.sql`
+`04_Retail_Sales__PostgreSQL_Analysis`
 
 ## Power BI Dashboard
 
@@ -162,7 +162,7 @@ Focuses on:
 
 Power BI file:
 
-`Retail_Sales_Profitability_Analysis.pbix`
+`05_Retail_Sales_Profitability_Analysis`
 
 ## Key KPIs
 
