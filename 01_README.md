@@ -209,26 +209,22 @@ Power BI file:
 
 ## Project Structure
 
-retail-sales-profitability-analytics/
-│
-├── README.md
-│
-├── data/
-│   └── SuperStore_Sales_Dataset_Cleaned.csv
-│
-├── python/
-│   └── Retail_Sales_Python_Analysis.ipynb
-│
-├── sql/
-│   └── Retail_Sales_SQL_Analysis.sql
-│
-├── powerbi/
-│   └── Retail_Sales_Profitability_Analysis.pbix
-│
-└── screenshots/
-    ├── executive-overview.png
-    ├── product-category-performance.png
-    └── customer-region-channel-analysis.png
+01_README.md
+
+02_SuperStore_Sales_Dataset_Cleaned.csv
+
+03_Retail_Sales_Python_Analysis.ipynb
+
+04_Retail_Sales_PostgreSQL_Analysis.sql
+
+05_Retail_Sales_Profitability_Analysis.pbix
+
+06_Page_1_Executive_Overview.png
+
+07_Page_2_Product-Category-Performance.png
+
+08_Page_3Customer_Region_Channel_Analysis.png
+
     
 
 ## Dashboard Preview
