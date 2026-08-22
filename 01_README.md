@@ -60,25 +60,17 @@ The dataset contains information related to:
 
 ## Project Workflow
 
+## Project Workflow
 
-Raw Dataset
-     ↓
-Python Data Cleaning
-     ↓
-Exploratory Data Analysis
-     ↓
-Cleaned Dataset
-     ↓
-PostgreSQL Analysis
-     ↓
-Power BI Data Modeling
-     ↓
-DAX Measures
-     ↓
-Interactive Dashboard
-     ↓
-Business Insights & Recommendations
-
+- Raw Dataset  
+  ↓ Python Data Cleaning  
+  ↓ Exploratory Data Analysis  
+  ↓ Cleaned Dataset  
+  ↓ PostgreSQL Analysis  
+  ↓ Power BI Data Modeling  
+  ↓ DAX Measures  
+  ↓ Interactive Dashboard  
+  ↓ Business Insights & Recommendations
 
 
 ## Python Analysis
@@ -97,7 +89,8 @@ Python was used for:
 
 Python File:
 
-`03_Retail_Sales_Python_Analysis`
+[03_Retail_Sales_Python_Analysis.ipynb](03_Retail_Sales_Python_Analysis.ipynb)
+
 
 ## SQL Analysis
 
@@ -121,7 +114,7 @@ PostgreSQL was used for:
 
 SQL file:
 
-`04_Retail_Sales__PostgreSQL_Analysis`
+[04_Retail_Sales_PostgreSQL_Analysis.sql](04_Retail_Sales_PostgreSQL_Analysis.sql)
 
 ## Power BI Dashboard
 
@@ -162,7 +155,7 @@ Focuses on:
 
 Power BI file:
 
-`05_Retail_Sales_Profitability_Analysis`
+[05_Retail_Sales_Profitability_Analysis.pbix](05_Retail_Sales_Profitability_Analysis.pbix)
 
 ## Key KPIs
 
